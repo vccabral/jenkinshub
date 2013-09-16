@@ -195,6 +195,7 @@ DJANGO_APPS = (
 THIRD_PARTY_APPS = (
     # Database migration helpers:
     'south',
+    'django_jenkins',
 )
 
 # Apps specific for this project go here.
