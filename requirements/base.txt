@@ -5,3 +5,7 @@ django-model-utils==1.4.0
 logutils==0.3.3
 South==0.8.1
 django-jenkins==0.14.1
+coverage==3.6
+django-discover-runner==0.4
+django-debug-toolbar==0.9.4
+Sphinx==1.2b1
