@@ -1,1 +1,1 @@
-web: gunicorn jenkinshub/jenkinshub/wsgi.py 
+web: gunicorn jenkinshub/wsgi.py 
