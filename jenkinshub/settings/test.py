@@ -16,3 +16,11 @@ DATABASES = {
         "PORT": "",
     },
 }
+
+########## CACHE CONFIGURATION
+CACHES = {
+    'default': {
+        'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
+    }
+}
+########## END CACHE CONFIGURATION
