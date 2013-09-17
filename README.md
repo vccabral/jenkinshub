@@ -1,4 +1,0 @@
-jenkinshub
-==========
-
-yolo
